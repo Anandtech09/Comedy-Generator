@@ -7,21 +7,18 @@ A fun and interactive web application that generates comedic text based on user 
 To get the app running locally:
 
 1. **Clone the repository**
-git clone https://github.com/Anandtech09/Comedy-Generator.git
-cd Comedy-Generator
-markdownCopy code
+- git clone https://github.com/Anandtech09/Comedy-Generator.git
+- cd Comedy-Generator
 
 2. **Install requirements**
 
 Make sure you have Python 3.8+ installed, then run:
-pip install -r requirements.txt
-markdownCopy code
+- pip install -r requirements.txt
 
 3. **Run the Streamlit app**
-streamlit run streamlit_app.py
-markdownCopy code
+- streamlit run streamlit_app.py
 
-After executing the command, Streamlit will start the application and provide a local URL (typically `http://localhost:8501`), which you can visit with your web browser to interact with the app.
+- After executing the command, Streamlit will start the application and provide a local URL (typically `http://localhost:8501`), which you can visit with your web browser to interact with the app.
 
 ## Features
 
